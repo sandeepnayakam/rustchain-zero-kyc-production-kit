@@ -1,0 +1,8 @@
+{
+ "total_paid_rtc": "80,035+",
+ "total_paid_rtc_exact": 80035.16,
+ "transactions": 4977,
+ "unique_recipients": 1322,
+ "updated_at": "2026-09-29T09:07:01Z",
+ "methodology": "confirmed+pending transfers from founder payout wallets to external recipients; voids and internal pools excluded"
+}
